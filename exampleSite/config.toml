@@ -1,13 +1,13 @@
 baseURL = "https://bendjamin.netlify.app"
 disableLanguages = []
-disqusShortname = ""
+disqusShortname = "bendjamin101001"
 googleAnalytics = "UA-123-45"
 languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 summaryLength = "10"
 theme = "twentytwenty"
-title = "Twenty Twenty Hugo"
+title = "EGG EGG Hugo"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
